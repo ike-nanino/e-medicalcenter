@@ -21,7 +21,7 @@ async function AdminPage() {
         <Image
         src="/assets/icons/logo.png"
         height={32}
-        width={162}
+        width={32}
         alt="logo"
         className="h-8 w-fit"
         
