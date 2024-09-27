@@ -25,7 +25,7 @@ export default async function AppointmentPage( {params: {userId}}: SearchParamPr
         type="create"
         userId={userId}
         patientId={patient?.$id}
-        setOpen={setOpen}
+  
         
          />
 
